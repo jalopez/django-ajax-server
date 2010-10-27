@@ -91,6 +91,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.admin',
     'south',
+    'django_extensions',
 )
 
 try:

@@ -5,6 +5,7 @@ GnuPGInterface==0.3.2
 Mako==0.3.4
 South==0.7.2
 UniConvertor==1.1.4
+Werkzeug==0.6.2
 adium-theme-ubuntu==0.3
 ailurus==10.10.4
 apt-xapian-index==0.39

@@ -6,7 +6,7 @@ Django AJAX Server (DAS) is a remote file server to upload html and javascript f
 Installation
 ------------
 
-# Install python-virtualenv
-# $pip -E env install -r dependencies.pip
-# Configure django settings in a file called settings_local.py
-# If you don't change database config, create an empty file called database.sqlite
+1. Install python-virtualenv
+2. $pip -E env install -r dependencies.pip
+3. Configure django settings in a file called settings_local.py
+4. If you don't change database config, create an empty file called database.sqlite
